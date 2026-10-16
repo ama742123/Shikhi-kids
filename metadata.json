@@ -1,0 +1,6 @@
+{
+  "name": "Shikhi Kids",
+  "description": "Bengali and English educational learning app for children aged 3–8 with offline tracing, math, stories, and games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
